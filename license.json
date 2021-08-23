@@ -1,5 +1,16 @@
 {
-    "date": "May 30, 2021",
-    "license": "1182132415135253245325738",
-    "changelog": "Added plugin support to JD_logs, Free name change check plugin included"
+    "version": "6.201",
+    "changelog": "Permission Editor, Reports GUI, Cleanup Function, Permissions Rework, loads of stuff",
+
+
+    "_comment": "The Version Check above is outdated, below is the new system, supporting both gta and rdr",
+
+    "fivem": {
+        "version": "6.201",
+        "changelog": "Permission Editor, Reports GUI, Cleanup Function, Permissions Rework, loads of stuff"
+    },
+    "redm": {
+        "version": "6.201",
+        "changelog": "Permission Editor, Reports GUI, Cleanup Function, Permissions Rework, loads of stuff"
+    }
 }
